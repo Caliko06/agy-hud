@@ -1,0 +1,7 @@
+{
+  "name": "agy-hud",
+  "version": "1.0.0",
+  "logo": "assets/logo.svg",
+  "description": "Minimalist quota meter (statusLine + menu bar) and hover file/image preview for agy CLI and Antigravity.app",
+  "author": "Angel Miranda"
+}
